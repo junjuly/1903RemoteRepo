@@ -1,3 +1,4 @@
 <?php	
 	echo "jintianxingqier";
-	ehco "this is on the group branch";
+	echo "this is on the group branch";
+	echo "this is on the group moreg";
